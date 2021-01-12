@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036282515771",
+    "project_id": "resultcardmanagement",
+    "storage_bucket": "resultcardmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036282515771:android:b3876ba28f8e9d9d9d671e",
+        "android_client_info": {
+          "package_name": "com.example.result_card_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036282515771-ea0i3qkgiqt5e5dcg8jqkf326v6a5qis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXtA50ndFe1WGlAiyac1gd57sdBGiHESI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036282515771-ea0i3qkgiqt5e5dcg8jqkf326v6a5qis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
